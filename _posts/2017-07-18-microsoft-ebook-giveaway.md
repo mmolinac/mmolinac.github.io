@@ -3,7 +3,6 @@ layout: post
 title: Microsoft eBook giveaway
 author: "Manuel Molina"
 about_author: "/us/manuel/readme.html"
-layout: post
 status: publish
 published: true
 author_email: mmc@pocosmhz.org

@@ -5,9 +5,6 @@ published: true
 title: Booting Linux through OCLP
 author: Manuel Molina
 about_author: "/us/manuel/readme.html"
-layout: post
-status: publish
-published: true
 date: '2021-12-19 15:51:27 +0100'
 author_email: mmc@pocosmhz.org
 tags:

@@ -5,9 +5,6 @@ published: true
 title: Messing with FileVault
 author: Manuel Molina
 about_author: "/us/manuel/readme.html"
-layout: post
-status: publish
-published: true
 author_email: mmc@pocosmhz.org
 tags:
 - macOS
