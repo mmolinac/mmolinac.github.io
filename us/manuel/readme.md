@@ -2,6 +2,7 @@
 layout: page
 title: Manuel Molina's bio
 permalink: /us/manuel/readme
+comments: false
 ---
 
 Let me introduce myself.

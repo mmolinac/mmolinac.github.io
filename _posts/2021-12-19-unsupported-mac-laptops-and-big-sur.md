@@ -10,7 +10,7 @@ date: '2021-12-19 22:42:37 +0100'
 tags:
 - macOS
 - unsupported
-comments: []
+comments: true
 ---
 Another side effect of using modern macOS versions on unsupported Mac laptop is that you end up missing some features.
 

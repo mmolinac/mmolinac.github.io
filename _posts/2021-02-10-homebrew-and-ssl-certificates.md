@@ -8,7 +8,7 @@ published: true
 author_email: mmc@pocosmhz.org
 tags:
 - bigdata
-comments: []
+comments: true
 ---
 There's an issue with some packages in Homebrew regarding SSL certificates. Once in a while I need to remember which env variable do I have to set in order to install its upgrades with Homebrew. [Libreoffice](https://www.libreoffice.org/) is one of them.
 

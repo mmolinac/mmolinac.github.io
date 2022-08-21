@@ -10,7 +10,7 @@ tags:
 - unix
 - backup
 - cloud
-comments: []
+comments: true
 ---
 Having a \[virtual\|cloud\] drive in which I could keep some common tools, old works' backup, unfrequently used ISO images and things like that, is an issue that has been coming to my mind for so long.
 

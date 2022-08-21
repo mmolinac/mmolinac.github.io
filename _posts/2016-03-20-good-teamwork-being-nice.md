@@ -7,7 +7,7 @@ status: publish
 published: true
 author_email: mmc@pocosmhz.org
 tags: []
-comments: []
+comments: true
 ---
 I've been reading part of this article and I totally agree with what I've read.
 

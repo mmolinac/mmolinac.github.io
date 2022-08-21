@@ -9,7 +9,7 @@ date: '2021-12-19 15:51:27 +0100'
 author_email: mmc@pocosmhz.org
 tags:
 - macOS
-comments: []
+comments: true
 ---
 There are several ways of booting Linux in a system where you've installed [OpenCore Legacy Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/).
 

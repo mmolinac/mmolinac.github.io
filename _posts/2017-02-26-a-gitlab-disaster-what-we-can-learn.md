@@ -7,7 +7,7 @@ status: publish
 published: true
 author_email: mmc@pocosmhz.org
 tags: []
-comments: []
+comments: true
 ---
 After the well known [Gitlab disaster / outage / disclosure](https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/), that could have been followed even in a live stream, some people think that they can extract certain conclusions.
 

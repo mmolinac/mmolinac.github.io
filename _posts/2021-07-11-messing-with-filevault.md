@@ -8,7 +8,7 @@ about_author: "/us/manuel/readme.html"
 author_email: mmc@pocosmhz.org
 tags:
 - macOS
-comments: []
+comments: true
 ---
 I know I have your attention. Well, I've been doing just that, because I'm using macOS Catalina in my old (but working!) [MacBook Aluminum Unibody](https://en.wikipedia.org/wiki/MacBook_(2006%E2%80%932012)#2nd_generation:_Aluminum_Unibody)
 

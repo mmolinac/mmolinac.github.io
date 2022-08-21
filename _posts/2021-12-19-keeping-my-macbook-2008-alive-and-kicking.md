@@ -10,7 +10,7 @@ date: '2021-12-19 22:28:59 +0100'
 tags:
 - macOS
 - brew
-comments: []
+comments: true
 ---
 ![MacBook 2008 unibody](/content/images/2021-12-19-keeping-my-macbook-2008-alive-and-kicking/macbook2008alu.jpg)
 

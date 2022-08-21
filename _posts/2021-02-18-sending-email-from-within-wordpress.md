@@ -9,7 +9,7 @@ author_email: mmc@pocosmhz.org
 tags:
 - wordpress
 - gmail
-comments: []
+comments: true
 ---
 In my recent this-thing-is-not-working spree, I've fortunately found [WP Mail SMTP](https://wordpress.org/plugins/wp-mail-smtp/). The thing that made me happy the most is that *it works*.
 

@@ -8,7 +8,7 @@ published: true
 author_email: mmc@pocosmhz.org
 tags:
 - bigdata
-comments: []
+comments: true
 ---
 Browsing through YouTube, I came across this interesting Dutch documentary from VPRO channel about information, power, social networks and the implications of any combination of them.
 
