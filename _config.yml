@@ -23,7 +23,7 @@ email: mmc@pocosmhz.org
 description: Systems engineering. Tools. Clouds. Whatever.
 show_excerpts: true 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://manuelmc.pocosmhz.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  mmolinac
 linkedin_username: manuel-molina-cuberos-a122088
