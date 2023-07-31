@@ -32,7 +32,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "jekyll-import", "~> 0.21.0"
+gem "jekyll-import", "~> 0.22.0"
 
 gem "sequel", "~> 5.58"
 gem "unidecode", "~> 1.0"
