@@ -33,7 +33,9 @@ In the past, there were maintained proprietary Linux drivers provided by Nvidia.
 
 However, as you can notice by complains like [this](https://askubuntu.com/questions/1453326/22-04-1-and-nvidia-legacy-driver-vs-nouveau) or [this one](https://bbs.archlinux.org/viewtopic.php?id=279064), you won't go too far if you want your system updated. That happened to me and it is the main reason I had to stop using them.
 
-The other path (and solution for me!) is to move to the [Nouveau](https://nouveau.freedesktop.org/) drivers. However, once you do that, you can find messages like this:
+The second path was to install those drivers following [this guide](https://gist.github.com/oprizal/998635a2ff5cbecb0519455c12b2994f) or by using [this PPA repo](https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa).
+
+The third path (and solution for me!) is to move to the [Nouveau](https://nouveau.freedesktop.org/) drivers. However, once you do that, you can find messages like this:
 
 {% highlight bash %}
 # dmesg | grep -B 3 -i "init failed"
