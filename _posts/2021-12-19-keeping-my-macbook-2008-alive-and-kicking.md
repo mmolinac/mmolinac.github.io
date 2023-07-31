@@ -16,7 +16,7 @@ comments: true
 
 In order to continue being able to use and work with my old but working [MacBook 2008 Unibody](https://en.wikipedia.org/wiki/MacBook_(2006%E2%80%932012)#1st_generation:_Aluminum_Unibody), I have two main hurdles:
 
-- To keep up with the OS upgrades. Apple no longer support this laptop with their new OS releases, so I started solving this with [dosdude1](https://twitter.com/dosdude1)'s [Mojave](http://dosdude1.com/mojave/) and [Catalina]http://dosdude1.com/catalina/) patchers. Now I do it by using OpenCore Legacy Patcher to install Big Sur and, in the future, Monterey.
+- To keep up with the OS upgrades. Apple no longer support this laptop with their new OS releases, so I started solving this with [dosdude1](https://twitter.com/dosdude1)'s [Mojave](http://dosdude1.com/mojave/) and [Catalina](http://dosdude1.com/catalina/) patchers. Now I do it by using OpenCore Legacy Patcher to install Big Sur and, in the future, Monterey.
 - To have an up to date stack of software and utilities. For the most part I rely on [brew](https://brew.sh/) to do that.
 
 However, **brew** software is continuously optimized for the latest macOS version. This has lately implied generating [bottled packages](https://docs.brew.sh/Bottles) with the optimizations available for the oldest macOS supported by Apple.
