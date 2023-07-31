@@ -31,7 +31,7 @@ However, coming to a more *visible* issue on Linux, let me tell what my graphics
 
 In the past, there were maintained proprietary Linux drivers provided by Nvidia. For this particular laptop and card, NVidia GeForce 9400M, you can find them [here](https://www.nvidia.com/download/driverResults.aspx/156163/en-us/).
 
-However, as you can notice by complains like [this one](https://askubuntu.com/questions/1453326/22-04-1-and-nvidia-legacy-driver-vs-nouveau), you won't go too far if you want your system updated. That happened to me and it is the main reason I had to stop using them.
+However, as you can notice by complains like [this](https://askubuntu.com/questions/1453326/22-04-1-and-nvidia-legacy-driver-vs-nouveau) or [this one](https://bbs.archlinux.org/viewtopic.php?id=279064), you won't go too far if you want your system updated. That happened to me and it is the main reason I had to stop using them.
 
 The other path (and solution for me!) is to move to the [Nouveau](https://nouveau.freedesktop.org/) drivers. However, once you do that, you can find messages like this:
 
