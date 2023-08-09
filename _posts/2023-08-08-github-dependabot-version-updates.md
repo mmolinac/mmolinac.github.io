@@ -110,6 +110,10 @@ You click *Enable CodeQL* and you're good to go. It will take some time to take 
 
 When it's done, you can check the current list of code scanning alerts issued by browsing *Security* -> *Vulnerability alerts* -> *Code scanning* from your repository's main page.
 
+Every time your repository receives new commits, you'll see triggered actions like these:
+
+![CodeQL commit scanning](/content/images/2023-08-08-github-dependabot-version-updates/codeql-commit-scanning.png)
+
 ## Secret scanning
 Best practices tell you that you must avoid including secrets in any clear text way in your code repositories.
 
