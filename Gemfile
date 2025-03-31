@@ -38,4 +38,4 @@ gem "jekyll-import", "~> 0.22.0"
 gem "sequel", "~> 5.58"
 gem "unidecode", "~> 1.0"
 
-gem "mysql2", "~> 0.5.4"
+gem "mysql2", "~> 0.5.5"
