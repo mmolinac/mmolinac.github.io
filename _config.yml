@@ -32,6 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jemoji
 # Disqus Comments
 disqus:
   # Leave shortname blank to disable comments site-wide.

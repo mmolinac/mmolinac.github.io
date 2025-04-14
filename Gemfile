@@ -39,3 +39,5 @@ gem "sequel", "~> 5.91"
 gem "unidecode", "~> 1.0"
 
 gem "mysql2", "~> 0.5.6"
+
+gem "jemoji"
