@@ -65,11 +65,17 @@ It is very straight-forward, but I'll go quickly through the steps for a standal
 
 ![Proxmox license](/content/images/2025-04-13-proxmox-home-cluster-i/proxmox-license.jpg)
 
-- As we only have one hard drive available, you just click on OK and leave the default options (ext4 FS):
+- Now you are presented with the Proxmox HD selection dialog:
 
 ![Proxmox target HD selection](/content/images/2025-04-13-proxmox-home-cluster-i/proxmox-target-hd.jpg)
+  - Here you have two options:
+  1. If you either don't plan on creating a Ceph cluster, or you plan to do it with a secondary disk, just click on OK and leave the default options (ext4 FS).
+  2. If you want to use part of the only disk we have for Ceph, please click on `Options` and reduce the size as stated below:
+  ![Proxmox target HD resize](/content/images/2025-04-13-proxmox-home-cluster-i/proxmox-target-hd-resize.jpg)
+  
+    Now accept and continue with the next step.
 
-- Now you adjust your locale options:
+- In this step you adjust your locale options:
 
 ![Proxmox location and timezone selection](/content/images/2025-04-13-proxmox-home-cluster-i/proxmox-location-tz.jpg)
 
