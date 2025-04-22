@@ -110,3 +110,24 @@ In a case you wanted to have Ceph with different set of disks per node, like spi
 ![Ceph shared storage](/content/images/2025-04-15-proxmox-home-cluster-ii/ceph-shared.png)
 
 Now we're ready to create a new virtual machine in the Ceph shared storage.
+
+From here on, these are optional steps.
+
+If you plan to use [Ceph CSI](https://github.com/ceph/ceph-csi) in your Kubernetes cluster, with [CephFS](https://docs.ceph.com/en/latest/cephfs/), you must add now at least one [Ceph Metadata Server](https://pve.proxmox.com/pve-docs/chapter-pveceph.html#pveceph_fs_mds).
+
+1. You can create an MDS through the Proxmox VE web GUI’s `Node` -> `CephFS` panel -> `Create`:
+![Ceph MDS](/content/images/2025-04-15-proxmox-home-cluster-ii/cephfs-create-mds.png)
+
+2. In the dialog box, confirm the creation of the first metadata server:
+![Ceph create first MDS](/content/images/2025-04-15-proxmox-home-cluster-ii/cephfs-create-mds-first.png)
+
+    You can create more servers, and it is a good thing to do, but be aware that only one will be active and the rest of them will be standby servers.
+
+3. Let's do the same with the second and third node, selecting each node and naming the new metadata servers accordingly:
+
+    ![Ceph create second MDS](/content/images/2025-04-15-proxmox-home-cluster-ii/cephfs-create-mds-second.png)
+
+4. Now, and before you create any Ceph FS, the status of all MDS is `standby`:
+![Ceph MDS list](/content/images/2025-04-15-proxmox-home-cluster-ii/cephfs-mds-list.png)
+
+We'll take care of creating a Ceph FS in a separate post, together with its use case.
