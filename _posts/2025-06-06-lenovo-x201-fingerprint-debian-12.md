@@ -76,16 +76,10 @@ Now with the procedure:
 
 5. Optionally, you can enroll other fingerprints or manage them through command-line utilities:
     ```Shell
-    asdf
-
-    ```
-
-
-
     $ fprintd-list manuelmc
     found 1 devices
     Device at /net/reactivated/Fprint/Device/0
     Using device /net/reactivated/Fprint/Device/0
     Fingerprints for user manuelmc on Upek TouchChip Fingerprint Coprocessor (swipe):
-    - #0: right-index-finger
+    \- #0: right-index-finger
     ```
