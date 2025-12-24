@@ -12,6 +12,7 @@ tags:
 - home
 - ha
 - budget
+- proxmox
 comments: true
 ---
 For some time I've been wondering the best way of having a steady solution to use as a home lab.

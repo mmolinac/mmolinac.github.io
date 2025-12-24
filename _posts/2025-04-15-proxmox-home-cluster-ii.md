@@ -12,6 +12,7 @@ tags:
 - home
 - ha
 - budget
+- proxmox
 comments: true
 ---
 This is the second part of my [previous post]({% post_url 2025-04-13-proxmox-home-cluster-i %}) about Proxmox basic installation.
